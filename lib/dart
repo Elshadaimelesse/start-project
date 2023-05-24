@@ -1,0 +1,7 @@
+stateless simplelist extends statelessWidget{
+    cost simplelist({key?key}):super(key:key)
+;}
+Widget build(buildContext context){
+    return container();
+    
+}
